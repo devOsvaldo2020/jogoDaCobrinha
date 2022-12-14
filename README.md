@@ -1,6 +1,6 @@
 # jogoDaCobrinha
 
-Site está pronto e publicado em https://devosvaldo2020.github.io/jogoDaCobrinha/
+# Site está pronto e publicado em:  
 
 
-link do curso: da DIo, de Gabriela Cavalcante.
+Link do curso: 
